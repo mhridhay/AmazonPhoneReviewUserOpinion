@@ -1,4 +1,4 @@
-# AmazonPhoneReviewUserOpinion
+# Text Mining User Opinion on Amazon Phone Reviews
 
 Apply **topic modeling** and **sentiment analysis** to identify the major concerns of mobile phone customers using approximately 68,000 reviews and 720 products over 10 brands shared as reviews and ratings on Amazon. Additionally, build predictive models to be able to predictmulticlass  ratings. 
 
