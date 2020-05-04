@@ -15,3 +15,8 @@ Predictive Models:
   2. Support Vector Machine
   3. Random Forest
   4. Naïve Bayes classifier
+
+Model Performance Metrics:
+  1. Precision
+  2. Recall/Sensitivity
+  3. F1 score
